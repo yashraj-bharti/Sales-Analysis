@@ -1,2 +1,3 @@
 # Sales-Analysis
 The Sales Analysis project involves analyzing sales data using Python libraries like Pandas and Matplotlib. The objective is to derive insights from sales trends, customer behavior, and product performance.
+Key tasks include cleaning and organizing the data, handling missing values, merging datasets, and identifying correlations. Using Pandas, the data is processed to group by metrics such as month, product, or region. Matplotlib is then used to create visualizations like bar charts and line graphs to display patterns in sales over time, best-selling products, and sales distribution across different areas. This analysis helps businesses make data-driven decisions.
